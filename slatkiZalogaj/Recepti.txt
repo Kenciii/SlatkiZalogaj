@@ -1,0 +1,3 @@
+
+								Naslov: kolac
+								Upute: kuhati kolac na temperaturi 25' stepeni
