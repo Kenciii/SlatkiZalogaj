@@ -4,5 +4,7 @@ project in c++
 In this project we learned about:
 - enumerations
 - structures
-- text files
-- vectors and some other functions
+- working with text files
+- vectors
+- recursive functions and some other functions
+  
